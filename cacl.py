@@ -1,0 +1,5 @@
+Number_A =input("enter a")
+Number_B=input("enter b")
+sum=int(Number_A)+int(Number_B)
+print(Number_A,Number_B)
+print(sum)
